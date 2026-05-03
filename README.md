@@ -7,3 +7,8 @@
 
 
 همچنین از وبسایت countryflags برای نمایش پرچم استفاده می کنیم .
+
+
+[gif]
+
+[gif] = https://rapidcode.ir/wp-content/uploads/2021/03/d3.gif
